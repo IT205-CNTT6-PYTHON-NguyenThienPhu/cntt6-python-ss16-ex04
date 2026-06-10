@@ -157,3 +157,5 @@ def main():
                 break
             case _:
                 print("Lựa chọn không hợp lệ")
+if __name__ == "__main__":
+    main()
